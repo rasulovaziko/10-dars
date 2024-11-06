@@ -1,0 +1,159 @@
+
+.footer-bottom {
+    background-color: #FFE6D2;
+    padding-bottom: 28px;
+    padding-top: 28px;
+}
+
+.footer-bottom-container {
+    display: flex;
+    align-items: center;
+
+}
+
+.footer .site-logo {
+    margin: 0px;
+    margin-right: 42px;
+}
+.bottom {
+}
+.site-logo {
+}
+.site-logo-image {
+}
+
+.footer-copyright {
+    font-weight: 500;
+    margin-right: auto;
+    color: #000000;
+}
+.footer-socials {
+    display: flex;
+    gap: 27px;
+    margin-left: auto;
+}
+.footer-socials-item {
+}
+.footer-socials-link {
+}
+.social-icon {
+}
+
+.footer-top {
+    margin-bottom: 64px;
+}
+
+.footer-top-image {
+    margin-bottom: 32px;
+}
+.footer-top-left {
+    width: 100%;
+    max-width: 453px;
+}
+
+    .footer-top-container {
+        display: flex;
+        justify-content: space-between;
+
+    }
+    .container {
+    }
+    .footer-top-left {
+        padding-bottom: 64px;
+    }
+    .footer-top-title {
+        font-size: 48px;
+        font-weight: 600;
+        line-height: 58px;
+        margin-bottom: 40px;
+
+    }
+    .footer-top-slogan {
+        font-size: 24px;
+        font-weight: 600;
+        margin-bottom: 28px;
+    }
+     
+    
+    .footer-top-email 
+    .footer-top-mobile{
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 500px;
+    
+
+    a{
+        
+        &: #232536;
+        a:hover {
+            color: #444cfc;
+        }
+    }
+    }
+    .footer-top-divider {
+        width: 286px;
+        background-color: rgba(0, 0, 0, 0,8);
+        border-top: none;
+    }
+    .site-address {
+        font-style: normal;
+    }
+    .footer-top-right {
+        display: flex;
+        gap: 100px;
+        flex-direction: column;
+        padding-top: 80px;
+    }
+    .footer-navs {
+        display: flex;
+        gap: 100px;
+        padding-right: 117px;
+    }
+    .main-navs {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+
+        a {
+            font-weight: 600;
+            color: inherit;
+
+            &:hover {
+                color: #ffa155;
+            }
+        }
+    }
+    .resources-nav {
+        margin-bottom: 13px;
+        li:first-child {
+          color: #000000;
+          font-weight: 600;
+        }
+
+        li {
+            margin-bottom: 13px;
+        }
+    }
+    .services-nav {
+        gap: 60;
+        margin-bottom: 13px;
+        li:first-child {
+            color: #000000;
+            font-weight: 600;
+         }
+            li{
+              margin-bottom: 13px;  
+            }
+            
+       
+
+    }
+
+    .footer-span {
+        color: #000000;
+    }
+
+    .footer-btn-wraper {
+        display: flex;
+        justify-content: flex-end;
+    }

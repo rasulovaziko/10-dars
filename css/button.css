@@ -1,0 +1,23 @@
+@import './global.css';
+.btn {
+    padding: 20px 32px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.btn-primary {
+    color: #ffffff;
+    background-color: #444cfc;
+    background-image: url("../images/shape.svg");
+    background-repeat: no-repeat;
+}
+
+.btn-text {
+
+}
+
+.btn-icon {
+
+}

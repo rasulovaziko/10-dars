@@ -1,0 +1,108 @@
+@import '../../css/global.css';
+
+/* Main  top */
+
+.main {
+    padding-bottom: 98px;
+}
+
+
+.hero {
+    
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 96px;
+}
+
+.team-list {
+    list-style: none;
+    display: flex;
+    gap: 26px;
+    padding-bottom: 96px;
+    opacity: 80%;
+}
+
+.hero-name {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+}
+.ceo {
+    opacity: 70%;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    padding-top: 8px;
+    padding-bottom: 24px;
+}
+.hero-wik {
+    max-width: 505px;
+    align-items: center;
+    opacity: 87%;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-bottom: 32px;
+}
+
+.blog-section {
+    background-color: #ecf8f9;
+    padding-bottom: 96px;
+    padding-top: 96px;
+}
+.blog-section-container {
+}
+.blog-section-title {
+    margin-bottom: 48px;
+    font-size: 48px;
+}
+.blog-items {
+    display: flex;
+    gap: 32px;
+}
+.blog-item {
+    width: 100%;
+    display: flex;
+    background: #ffffff;
+    align-items: center;
+    
+}
+.blog-item-image {
+}
+.blog-content {
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+}
+.blog-item-title {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 600;
+    margin-bottom: 24px;
+}
+.btn {
+}
+
+.btn-blog {
+  padding: 0;
+}
+
+.blog-time {
+    color: rgba(35, 37, 54, 60%);
+    margin-bottom: 8px;
+}
+
+.btn-text {
+    color: #444cfc;
+}
+
+.cub {
+    display: flex;
+    padding-bottom: 19px;
+}
+
+.social-icon:hover {
+    color: #444cfc;
+}

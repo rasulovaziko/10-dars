@@ -1,0 +1,87 @@
+@import "../../../css/global.css";
+
+/* blog header */
+
+.main {
+    padding-top: 96px;
+}
+.inner {
+
+}
+.container {
+}
+.inner-container {
+    width: 100%;
+    max-width: 1300px;
+    background-image: url(Shape\ \(1\).svg), 
+    url(shape-right.svg);
+    background-repeat: no-repeat;
+    background-position: top left, top right;
+    font-family: inherit;
+}
+.inner-title {
+    width: 729px;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 58px;
+}
+.inner-subtitle {
+    width: 719px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.inner-image {
+  margin-top: 15px;
+  width: 167px;  
+}
+.inner-date {
+    margin-bottom: 15px
+}
+
+.inner-list {
+    width: 100%;
+    max-width: 1300px;
+    
+}
+
+.center-container {
+    align-items: center;
+}
+.container {
+}
+.center-shape {
+}
+.shape {
+    display: flex;
+    align-items: flex-start;
+    margin-right: 1300px;
+}
+.center-text {
+    width: 100%;
+    max-width: 842px;
+    margin: 96px 225px;
+}
+.center-title {
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+
+}
+.center-subtitle {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    gap: 24px;
+    padding-bottom: 24px;
+}
+.center-title2 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+}
+
+.center {
+    padding-top: 96px;
+    padding-bottom: 96px;
+}
