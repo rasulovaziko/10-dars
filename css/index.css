@@ -82,3 +82,91 @@
     line-height: 24px;
     opacity: 60%;
 }
+
+.idea-item {
+    list-style: none;
+    display: flex;
+    gap: 35px;
+}
+
+.idea-item-list {
+    gap: 15px;
+}
+
+.idea-our-title {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #ffffff;
+    opacity: 60%;
+
+}
+
+.idea-work-title {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #ffffff;
+}
+
+.idea-logo {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 120px;
+    padding-bottom: 48px;
+}
+.about-left {
+
+}
+.about-subtitle-left {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 3px;
+    opacity: 87%;
+    padding-bottom: 16px;
+}
+.about-title-left {
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 58px;
+}
+.about-right {
+}
+.about-title-right {
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 54px;
+}
+.about-ptitle-right {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #5D5F6D;
+}
+
+.meeting {
+}
+.meeting-list {
+    display: flex;
+     gap: 11px;
+}
+.meeting-item {
+    
+}
+.meeting-img {
+   
+}
+
+.expertise-container { 
+    background-color: #ECF8F9;
+    width: 100%;
+    max-width: 1300px;
+}
